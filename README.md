@@ -1,1 +1,1 @@
-# Small-Chatbot
+# Small-Chatbot Python project
